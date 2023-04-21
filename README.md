@@ -1,0 +1,2 @@
+# covidmahjong
+mahjong-app
